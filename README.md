@@ -1,2 +1,2 @@
 # breathing-app
-* this website help test how long you can hold your breathe.
+* This website help test how long you can hold your breathe.
